@@ -1,0 +1,39 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/arm/Desktop/github/solidity-sample/contracts/MyContracts.sol": {
+      "lastModificationDate": 1625174896330,
+      "contentHash": "9dc040d67664567837d7e3aacfad5644",
+      "sourceName": "contracts/MyContracts.sol",
+      "solcConfig": {
+        "version": "0.8.5",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "MyContract"
+      ]
+    }
+  }
+}
